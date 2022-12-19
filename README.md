@@ -1,5 +1,14 @@
 # Web-Scraping
 Scraping data from web using python library BeautifulSoup and requests.
+In this project we analyize the Flipkart Website of Bike section and we get the useful insight from the data and create a dataframe.
+In the Webscraping we different type of technology like python to manuplate the data and clean with according to out need of data insights.
+
+## Python Libraries used in project:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- BeautifulSoup
 
 ## BeautifulSoup
 - Beautiful Soup is a Python library for pulling data out of HTML and XML files.
